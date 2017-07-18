@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1458962559 source:c:\users\tyler medina\documents\cs 330\polyhedra_oop\polyhedra_oop\boundingbox.cpp
+	"BoundingBox.h"
+
+1458962559 c:\users\tyler medina\documents\cs 330\polyhedra_oop\polyhedra_oop\boundingbox.h
+	"Point.h"
+
+1458962559 c:\users\tyler medina\documents\cs 330\polyhedra_oop\polyhedra_oop\point.h
+	<iostream>
+
+1460046971 source:c:\users\tyler medina\documents\cs 330\polyhedra_oop\polyhedra_oop\composite.cpp
+	"Polyhedron.h"
+	"Composite.h"
+
+1458962559 c:\users\tyler medina\documents\cs 330\polyhedra_oop\polyhedra_oop\polyhedron.h
+	<cmath>
+	<cstdlib>
+	<iostream>
+	<string>
+	"Point.h"
+	"BoundingBox.h"
+
+1458962559 c:\users\tyler medina\documents\cs 330\polyhedra_oop\polyhedra_oop\composite.h
+	"Polyhedron.h"
+
+1458962559 source:c:\users\tyler medina\documents\cs 330\polyhedra_oop\polyhedra_oop\createpolyhedra.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<vector>
+	"Polyhedron.h"
+	"PolyhedronFactory.h"
+
+1458962559 c:\users\tyler medina\documents\cs 330\polyhedra_oop\polyhedra_oop\polyhedronfactory.h
+	<iostream>
+
+1458962559 source:c:\users\tyler medina\documents\cs 330\polyhedra_oop\polyhedra_oop\point.cpp
+	"Point.h"
+
+1458962559 source:c:\users\tyler medina\documents\cs 330\polyhedra_oop\polyhedra_oop\polyhedron.cpp
+	"Polyhedron.h"
+	"PolyhedronFactory.h"
+
+1458962559 source:c:\users\tyler medina\documents\cs 330\polyhedra_oop\polyhedra_oop\polyhedronfactory.cpp
+	"PolyhedronFactory.h"
+	"Sphere.h"
+	"Cylinder.h"
+	"Composite.h"
+
+1458962559 c:\users\tyler medina\documents\cs 330\polyhedra_oop\polyhedra_oop\sphere.h
+	"Polyhedron.h"
+
+1460037492 c:\users\tyler medina\documents\cs 330\polyhedra_oop\polyhedra_oop\cylinder.h
+	"Polyhedron.h"
+
+1458962559 source:c:\users\tyler medina\documents\cs 330\polyhedra_oop\polyhedra_oop\sphere.cpp
+	"Sphere.h"
+
+1460037399 source:c:\users\tyler medina\documents\cs 330\polyhedra_oop\polyhedra_oop\cylinder.cpp
+	"Cylinder.h"
+

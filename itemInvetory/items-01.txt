@@ -1,0 +1,6 @@
+1 8 raw wood
+2 2 stone
+3 4 iron
+1 12 raw wood
+2 4 stone
+3 8 iron

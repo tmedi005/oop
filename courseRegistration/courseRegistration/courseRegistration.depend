@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1454008152 source:c:\users\tyler medina\documents\cs 330\courseregistration\courseregistration\course.cpp
+	<iomanip>
+	"Course.h"
+
+1454008159 c:\users\tyler medina\documents\cs 330\courseregistration\courseregistration\course.h
+	<iostream>
+	<string>
+
+1454008191 source:c:\users\tyler medina\documents\cs 330\courseregistration\courseregistration\register.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<vector>
+	<algorithm>
+	"Course.h"
+	"Student.h"
+
+1454008183 c:\users\tyler medina\documents\cs 330\courseregistration\courseregistration\student.h
+	<iostream>
+	"Course.h"
+	"Schedule.h"
+
+1454008169 c:\users\tyler medina\documents\cs 330\courseregistration\courseregistration\schedule.h
+	<iostream>
+	"Course.h"
+
+1454008176 source:c:\users\tyler medina\documents\cs 330\courseregistration\courseregistration\student.cpp
+	<utility>
+	"Student.h"
+
+1455055824 source:c:\users\tyler medina\documents\cs 330\courseregistration\courseregistration\schedule.cpp
+	<utility>
+	"Schedule.h"
+

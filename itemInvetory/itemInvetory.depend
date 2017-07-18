@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1442288805 source:c:\users\tyler medina\documents\cs 330\iteminvetory\crafting.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<vector>
+	<algorithm>
+	"Inventory.h"
+	"ItemStack.h"
+	"Item.h"
+
+1445490582 c:\users\tyler medina\documents\cs 330\iteminvetory\inventory.h
+	<iostream>
+	"ItemStack.h"
+
+1442288788 c:\users\tyler medina\documents\cs 330\iteminvetory\itemstack.h
+	<iostream>
+	"Item.h"
+
+1442288777 c:\users\tyler medina\documents\cs 330\iteminvetory\item.h
+	<iostream>
+	<string>
+
+1443581574 source:c:\users\tyler medina\documents\cs 330\iteminvetory\inventory.cpp
+	<utility>
+	"Inventory.h"
+
+1442288771 source:c:\users\tyler medina\documents\cs 330\iteminvetory\item.cpp
+	<iomanip>
+	"Item.h"
+
+1442429480 source:c:\users\tyler medina\documents\cs 330\iteminvetory\itemstack.cpp
+	<iomanip>
+	"ItemStack.h"
+

@@ -1,0 +1,15 @@
+Material Rock
+Tool Hammer 10 2
+    Iron
+    Wood
+Resource Coal
+Disposable Torch 10 2
+    Coal
+    Stick
+Food Sandwich 1 2
+    PeanutButter
+    Jelly
+Food PizzaSlice 8 3
+    Cheese
+    Sauce
+    Dough

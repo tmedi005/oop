@@ -1,0 +1,15 @@
+1 1 HP Potion
+2 4 MP Potion
+5 12 Iron Ore
+3 16 Bow Tie
+4 8 Dirt
+6 1 Diamond Ore
+7 1 Iron Ingot
+8 1 Diamond
+9 1 Diamond Block
+1 4 HP Potion
+2 3 MP Potion
+6 3 Diamond Ore
+7 1 Iron Ingot
+8 2 Diamond
+9 1 Diamond Block

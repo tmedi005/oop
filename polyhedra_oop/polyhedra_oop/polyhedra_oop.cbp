@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="polyhedra_oop" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/polyhedra_oop" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option parameters="polyhedra1.txt" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/polyhedra_oop" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="BoundingBox.cpp" />
+		<Unit filename="BoundingBox.h" />
+		<Unit filename="Composite.cpp" />
+		<Unit filename="Composite.h" />
+		<Unit filename="Cylinder.cpp" />
+		<Unit filename="Cylinder.h" />
+		<Unit filename="Point.cpp" />
+		<Unit filename="Point.h" />
+		<Unit filename="Polyhedron.cpp" />
+		<Unit filename="Polyhedron.h" />
+		<Unit filename="PolyhedronFactory.cpp" />
+		<Unit filename="PolyhedronFactory.h" />
+		<Unit filename="Sphere.cpp" />
+		<Unit filename="Sphere.h" />
+		<Unit filename="createPolyhedra.cpp" />
+		<Unit filename="polyhedra1.txt" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1448106542 source:c:\users\tyler medina\documents\cs 330\craafting_oop\craftable.cpp
+	"Craftable.h"
+	"Ingredient.h"
+
+1447713265 c:\users\tyler medina\documents\cs 330\craafting_oop\craftable.h
+	"Item.h"
+
+1447682976 c:\users\tyler medina\documents\cs 330\craafting_oop\item.h
+	<iostream>
+	<string>
+
+1447682966 c:\users\tyler medina\documents\cs 330\craafting_oop\ingredient.h
+	"Item.h"
+
+1448106625 source:c:\users\tyler medina\documents\cs 330\craafting_oop\ingredient.cpp
+	"Ingredient.h"
+
+1447682971 source:c:\users\tyler medina\documents\cs 330\craafting_oop\item.cpp
+	<iomanip>
+	"Item.h"
+
+1447682979 source:c:\users\tyler medina\documents\cs 330\craafting_oop\itemfactory.cpp
+	"ItemFactory.h"
+
+1447682983 c:\users\tyler medina\documents\cs 330\craafting_oop\itemfactory.h
+	<iostream>
+	"Item.h"
+	"Ingredient.h"
+	"Craftable.h"
+
